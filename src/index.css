@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+
+
+    .story{
+        
+        transition: all .3s;
+    }
+    .show{
+        transform: translateX(-250px);
+     
+    }
+    @tailwind utilities;
