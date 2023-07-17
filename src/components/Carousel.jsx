@@ -14,7 +14,7 @@ function Carousel({ scooter}) {
 
     const ref = useRef(null);
     useEffect(() =>{
-      console.log(ref)
+      // console.log(ref)
     },[])
 
   // console.log(scooter)

@@ -4,7 +4,7 @@ import simpleParallax from 'simple-parallax-js';
 
 function Hero() {
   return (
-    <div className={`w-full h-[600px] md:h-[700px] bg-[url(${atv})] 
+    <div className={`w-full h-[600px] md:h-[100vh] bg-[url(${atv})] 
         bg-left bg-cover bg-fixed
         object-cover
         aspect-square overflow-hidden thumbnail`}>
